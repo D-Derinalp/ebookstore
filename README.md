@@ -43,7 +43,7 @@ The database would be updated or displayed according to the selected option by t
   4. Search books
   5. Display Book list
 
-![usage](https://user-images.githubusercontent.com/122227205/221368363-b39c7eb4-f4c2-46ca-a0c4-5ffae12d8884.png)
+![usage](https://user-images.githubusercontent.com/122227205/221369206-3cfc5b4e-4b8c-4e37-a347-7c281035c91a.png)
 
 
 ## 5. Contribute
